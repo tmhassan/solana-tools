@@ -93,7 +93,7 @@ Finds wallets that traded specific tokens within custom time ranges.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/z0d1a/solana-tools.git
+git clone https://github.com/tmhassan/solana-tools.git
 cd solana-tools
 ```
 
@@ -297,7 +297,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## 📧 Contact
 
-Created by [@z0d1a](https://github.com/z0d1a)
+Created by [@tmhassan](https://github.com/tmhassan)
 
 ---
 
